@@ -20,4 +20,6 @@ project/
 ├── roteiro_de_teste.md            # Arquivo com o roteiro de testes detalhado
 ├── README.md                      # Arquivo de documentação do projeto
 
+Para uma análise mais rebuscada, sugiro comentar as funções no arquivo main para que seja testado um cenário por vez.
+
 *Pontos de melhoria a serem destacados! Estou a disposição para dúvidas!*
