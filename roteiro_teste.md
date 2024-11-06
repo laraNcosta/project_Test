@@ -93,7 +93,7 @@ Passos:
 Resultado Esperado: 
     Exibição de mensagem de erro: "E-mail ou senha inválidos".
 
-    ---------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 
 Roteiro de Teste: Esqueci a Senha
 
