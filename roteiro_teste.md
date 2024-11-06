@@ -93,7 +93,7 @@ Passos:
 Resultado Esperado: 
     Exibição de mensagem de erro: "E-mail ou senha inválidos".
 
-----------------------------------------------------------------------------------
+    ---------------------------------------------------------------------------------
 
 Roteiro de Teste: Esqueci a Senha
 
@@ -164,8 +164,11 @@ Pré-condições: O usuário deve ter uma conta registrada e credenciais válida
         Realizar login no sistema com credenciais válidas.
         Verificar se a tela principal de Banco de Atividades é exibida.
 
-        Resultado Esperado: A tela de Banco de Atividades é carregada com sucesso.
-        Critério de Aprovação: Acesso bem-sucedido e visualização dos modelos existentes.
+Resultado Esperado: 
+    A tela de Banco de Atividades é carregada com sucesso.
+    
+Critério de Aprovação: 
+    Acesso bem-sucedido e visualização dos modelos existentes.
 
 Cenário 2: Pesquisa por WhatsApp
 
@@ -197,7 +200,6 @@ Pré-condição:
             Termo de busca: "LinkedIn"
 
 Passos:
-
     Acessar o campo de busca.
     Inserir o termo "LinkedIn".
     Acionar a funcionalidade de busca.
@@ -217,7 +219,6 @@ Pré-condição:
             Descrição nova: "Caso_Teste_WhatsApp teste 2"
 
 Passos:
-
     Realizar a busca pelo termo "WhatsApp".
     Selecionar a opção de edição do item "WhatsApp".
     Confirmar a exibição do rótulo "Nome do Modelo de Atividade*".
@@ -238,7 +239,6 @@ Pré-condição:
             Descrição nova: "Caso_Teste_WhatsApp teste 2"
 
 Passos:
-
     Realizar a busca pelo termo "WhatsApp".
     Selecionar a opção de edição do item "WhatsApp".
     Confirmar a exibição do rótulo "Nome do Modelo de Atividade*".
@@ -259,7 +259,6 @@ Pré-condição:
         Item: "LinkedIn"
 
 Passos:
-
     Realizar a busca pelo termo "LinkedIn".
     Selecionar a opção de duplicação do item "LinkedIn".
     Verificar se o item aparece duplicado.
