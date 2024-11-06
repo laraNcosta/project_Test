@@ -39,8 +39,8 @@ def activity():
         print("[Activity tests] Detalhes dos erros", failed)
 
 def run_tests():
-    #login()
-    #forgot_password()
+    login()
+    forgot_password()
     activity()
 
 run_tests()
